@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_close_dialog",
+    "texture": "29c2c105-b1de-48ae-907b-fb20c8ab4185",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      61
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      62,
+      62
+    ]
+  }
+}

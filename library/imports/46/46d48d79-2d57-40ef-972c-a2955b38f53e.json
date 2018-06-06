@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_canves_color_icon",
+    "texture": "0b96d217-6130-4e3d-a916-b5aa82224ac5",
+    "atlas": "",
+    "rect": [
+      42,
+      0,
+      100,
+      120
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      180,
+      120
+    ]
+  }
+}

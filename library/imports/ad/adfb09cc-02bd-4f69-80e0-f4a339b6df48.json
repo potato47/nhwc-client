@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_canve_bg",
+    "texture": "90954327-85f6-4148-b6c3-73635ed91de5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      96
+    ]
+  }
+}

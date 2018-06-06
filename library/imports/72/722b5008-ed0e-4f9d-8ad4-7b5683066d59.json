@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_wodi_input_word",
+    "texture": "1b998834-213d-4a38-ad20-b8c775e0faf5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      472,
+      382
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      472,
+      382
+    ]
+  }
+}

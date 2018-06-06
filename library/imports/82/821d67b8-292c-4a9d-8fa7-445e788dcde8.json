@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_wrong_flag",
+    "texture": "762a5fb4-6084-46f9-8d96-4949dcdec0c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      68
+    ]
+  }
+}

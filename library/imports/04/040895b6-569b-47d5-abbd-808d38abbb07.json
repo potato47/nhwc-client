@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "native_game_choice_word_title_bg",
+    "texture": "04fbd119-b81d-4bad-97e1-6cf0fb26c3e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      78
+    ]
+  }
+}

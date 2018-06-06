@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_paint_color_plate_body_bg",
+    "texture": "525e2314-b70f-4f48-9ef6-a2252a1d091c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      168
+    ],
+    "capInsets": [
+      36,
+      0,
+      17,
+      0
+    ]
+  }
+}

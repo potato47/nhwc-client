@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_country_background",
+    "texture": "fd8a9188-9c78-47b2-bfea-1183dfb2951b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      82
+    ]
+  }
+}

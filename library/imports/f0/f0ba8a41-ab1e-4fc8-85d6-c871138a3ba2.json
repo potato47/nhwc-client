@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_tools_box_vip_bg",
+    "texture": "42dfa789-5874-4e88-8e98-594785becb7b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      110
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_paint_input_dialog_okbtn",
+    "texture": "dc376209-6f87-48d5-b77c-bb618f8f2b64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      60
+    ]
+  }
+}

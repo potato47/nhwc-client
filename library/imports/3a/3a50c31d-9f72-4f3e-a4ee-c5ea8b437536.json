@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_prepare_girl",
+    "texture": "95ad2f96-c26c-4693-93eb-d7990d784c0e",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      200,
+      206
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      208,
+      208
+    ]
+  }
+}

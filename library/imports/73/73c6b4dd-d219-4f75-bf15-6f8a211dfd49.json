@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spy_bg",
+    "texture": "06acce3c-ddcc-444a-b499-d2547f2e3018",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1125,
+      330
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1125,
+      330
+    ]
+  }
+}

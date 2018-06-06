@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guess_guess_bg",
+    "texture": "5da25688-9f39-4e52-9a87-37fb9cb01dd4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      471,
+      369
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      471,
+      369
+    ]
+  }
+}

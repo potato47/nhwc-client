@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_paint_finish",
+    "texture": "8026fd52-60fa-4e0b-8c31-71b9045ac0a8",
+    "atlas": "",
+    "rect": [
+      0,
+      28,
+      371,
+      491
+    ],
+    "offset": [
+      0,
+      -14
+    ],
+    "originalSize": [
+      371,
+      519
+    ]
+  }
+}

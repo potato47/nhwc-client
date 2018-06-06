@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_earse_icon_select",
+    "texture": "2c0d170b-0504-49e9-931c-6d892c22a87c",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      172,
+      118
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      180,
+      120
+    ]
+  }
+}

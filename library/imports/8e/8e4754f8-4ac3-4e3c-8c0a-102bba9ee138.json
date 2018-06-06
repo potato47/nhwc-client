@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_bg_placeholder_4",
+    "texture": "5e9e6acf-31ff-4731-b020-5f54deb16370",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      330
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      330
+    ]
+  }
+}

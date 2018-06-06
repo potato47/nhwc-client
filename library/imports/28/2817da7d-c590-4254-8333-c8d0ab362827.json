@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "all_pass_anima_bg",
+    "texture": "ff642730-eccb-477f-979a-47f7d846a121",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      488,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      488,
+      92
+    ]
+  }
+}

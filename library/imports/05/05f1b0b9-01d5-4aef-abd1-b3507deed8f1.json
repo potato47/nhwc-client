@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_lock_bg",
+    "texture": "d4cf8626-919d-4e6c-b837-8cb69a98ecdb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      83
+    ]
+  }
+}

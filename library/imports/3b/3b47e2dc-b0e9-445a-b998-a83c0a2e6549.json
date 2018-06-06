@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "native_paint_prepare_but_p",
+    "texture": "6eab1e30-dad5-463e-a42e-b6475446232b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      228
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      228
+    ]
+  }
+}

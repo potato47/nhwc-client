@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3910af59-f216-4aa1-aad9-ca9175768541",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "paint_canves_color_icon_select": {
+      "ver": "1.0.3",
+      "uuid": "10cf4798-a858-46e5-83f9-3d7e73730638",
+      "rawTextureUuid": "3910af59-f216-4aa1-aad9-ca9175768541",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 172,
+      "height": 120,
+      "rawWidth": 180,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

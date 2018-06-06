@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2c0d170b-0504-49e9-931c-6d892c22a87c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "paint_earse_icon_select": {
+      "ver": "1.0.3",
+      "uuid": "122d9a37-2a54-4235-b65e-5c4cdc34b537",
+      "rawTextureUuid": "2c0d170b-0504-49e9-931c-6d892c22a87c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 172,
+      "height": 118,
+      "rawWidth": 180,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_jump_7",
+    "texture": "2251a3ee-9116-42a5-a058-edaba48eb4cb",
+    "atlas": "",
+    "rect": [
+      37,
+      132,
+      103,
+      113
+    ],
+    "offset": [
+      -1.5,
+      -48.5
+    ],
+    "originalSize": [
+      180,
+      280
+    ]
+  }
+}

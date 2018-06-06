@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "keyboard_input_bg",
+    "texture": "021dc834-805c-4f1f-b93e-93e2e52f333f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      762,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      762,
+      90
+    ]
+  }
+}

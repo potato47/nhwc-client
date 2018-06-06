@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_enter_quickly",
+    "texture": "693c8854-0df8-4959-ab08-fc9bbeb23edc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      20
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_wodi_input_ok",
+    "texture": "3ee862e9-0c19-4da1-a5ec-2da9cdc4b6fc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      60
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_icon_select",
+    "texture": "b44cb2b2-2a9b-406a-976f-8381fdbefc5c",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      172,
+      118
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      180,
+      120
+    ]
+  }
+}

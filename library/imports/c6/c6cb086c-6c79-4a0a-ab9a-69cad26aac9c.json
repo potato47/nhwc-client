@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guess_game_over",
+    "texture": "dbb8b95f-9e2b-4680-b8fe-10b94e8dca34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      684,
+      413
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      684,
+      414
+    ]
+  }
+}

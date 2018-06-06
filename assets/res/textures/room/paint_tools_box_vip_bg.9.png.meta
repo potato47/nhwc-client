@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "42dfa789-5874-4e88-8e98-594785becb7b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "paint_tools_box_vip_bg.9": {
+      "ver": "1.0.3",
+      "uuid": "f0ba8a41-ab1e-4fc8-85d6-c871138a3ba2",
+      "rawTextureUuid": "42dfa789-5874-4e88-8e98-594785becb7b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 176,
+      "height": 110,
+      "rawWidth": 176,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

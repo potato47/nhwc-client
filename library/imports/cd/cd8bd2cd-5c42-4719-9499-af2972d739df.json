@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slave_input_bg",
+    "texture": "3024091b-7aff-4495-a8ae-cbd266882f3f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      378,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      378,
+      48
+    ]
+  }
+}

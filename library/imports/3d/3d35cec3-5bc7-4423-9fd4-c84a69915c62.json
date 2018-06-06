@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonPost",
+    "texture": "67323748-1df2-47f2-8d4c-c013731efa14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      174,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      69
+    ]
+  }
+}

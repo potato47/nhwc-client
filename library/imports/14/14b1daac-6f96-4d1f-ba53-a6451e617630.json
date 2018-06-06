@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "all_pass_ani_4",
+    "texture": "f2a6e57c-d6aa-4554-ba2c-f32d256f5eef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      287,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      287,
+      118
+    ]
+  }
+}

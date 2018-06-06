@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paint_off_line",
+    "texture": "e097984d-fecf-4ebb-bba6-b4d4b9e5a533",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      29
+    ]
+  }
+}

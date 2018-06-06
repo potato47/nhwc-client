@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "native_speak_guess_bg",
+    "texture": "eff445f8-ff29-4429-8c65-181ea0b3c28f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      1125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      1125
+    ]
+  }
+}
